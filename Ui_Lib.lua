@@ -1555,7 +1555,7 @@ do
 
             Converted["_TextBox"].Font = Enum.Font.Gotham
             Converted["_TextBox"].PlaceholderColor3 = Color3.fromRGB(165.00000536441803, 165.00000536441803, 165.00000536441803)
-            Converted["_TextBox"].PlaceholderText = "search"
+            Converted["_TextBox"].PlaceholderText = "Search"
             Converted["_TextBox"].Text = ""
             Converted["_TextBox"].TextColor3 = Color3.fromRGB(225.00000178813934, 225.00000178813934, 225.00000178813934)
             Converted["_TextBox"].TextSize = 13

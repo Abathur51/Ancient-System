@@ -103,14 +103,6 @@ end)
 
 
 
-
-
-
-
-
-
-
-
 local LP = UI:addPage("Misc",2,false,6)
 LP:addLabel("Toggle","Press RightShift")
 LP:addButton("Infinite Yield",function()
